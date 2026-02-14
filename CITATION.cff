@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "HAEB — Human Agency Execution Boundary"
+message: "If you use this specification in research, policy, or implementation, please cite it as below."
+type: software
+authors:
+  - family-names: Lin
+    given-names: Hui-Pi
+    affiliation: "Independent Researcher / NOIRÉA"
+    orcid: "https://orcid.org/[if-you-have-one]"
+license: CC-BY-4.0
+repository-code: "https://github.com/[your-username]/haeb-standard"
+repository-artifact: "https://zenodo.org/records/18616470"
+url: "https://zenodo.org/records/18616470"
+abstract: "HAEB is a technical specification for execution-level governance in AI systems, preventing execution-level substitution of human decision authority without explicit authorization."
+keywords:
+  - "AI governance"
+  - "execution boundary"
+  - "human autonomy"
+  - "revocation authority"
+  - "behavioral proxy metrics"
+  - "technical specification"
+version: "0.1"
+date-released: "2026-02-12"
+doi: "10.5281/zenodo.18616470"
+references:
+  - type: website
+    title: "HAEB on Zenodo (Permanent Record)"
+    url: "https://zenodo.org/records/18616470"
+    year: 2026
